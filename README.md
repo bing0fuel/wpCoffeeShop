@@ -1,8 +1,6 @@
 # wpCoffeeShop
 Using the Google Places API, this admin side WordPress plugin queries your browser for your location and displays the nearest coffee shop.
 
-See a screenshot at: https://suwdo.com/2017/02/wpcoffeeshop/
-
 ## Requirements
 
 1. WordPress version 4.9+
@@ -12,7 +10,7 @@ See a screenshot at: https://suwdo.com/2017/02/wpcoffeeshop/
 ## Installation
 
 1. Go to the [Google Places API](https://developers.google.com/places/web-service/) page and request an API key.
-If you do not already have one, yYou will need to create a Google Developer account to do so.
+If you do not already have one, you will need to create a Google Developer account to do so.
     1. Keep the API key in a safe place
 1. Clone this repository (or download from [releases](https://github.com/bing0fuel/wpCoffeeShop/releases) into
 your `WP_ROOT/wp-content/plugins/` directory.
